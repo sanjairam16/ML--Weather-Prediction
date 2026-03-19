@@ -3,7 +3,7 @@
 To write a program to predict daily temperature , PM2.5 pollution level and Energy based on environmental sensor data using Random Forest Algorithm.
 
 ## Problem Statement and Dataset
-
+The objective of this experiment is to build a machine learning model that predicts environmental conditions such as temperature, air pollution (PM2.5), and solar radiation energy using sensor data collected over time. The dataset contains time-series data with features such as humidity, pressure, wind speed, illumination, CO₂ levels, and timestamps. Since the outputs are continuous values, this is treated as a regression problem.
 
 
 ## Equipments Required:
